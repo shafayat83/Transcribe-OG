@@ -1,8 +1,6 @@
-# Run and deploy your AI Studio app
+# Transcribe-OG 
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1rGpYPACROSaKnr2nFyVGbNUDHEmKAHGB
+A retro-styled web application for transcribing YouTube and Instagram videos using advanced AI, featuring a classic early-2000s table-based design.
 
 ## Run Locally
 
